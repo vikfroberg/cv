@@ -6,13 +6,6 @@ and mobile. I'm a functional programming advocate with a huge crush on [Elm](htt
 I recently made an [assignment](https://github.com/vikfroberg/etraveli) for Etraveli where you can see some of my
 coding style.
 
-## Contact info
-Phone: +46(0) 709 31 39 55
-
-Email: vikfroberg@gmail.com
-
-You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https://twitter.com) and [Dribbble](https://dribbble.com/vikfroberg).
-
 ## Experience
 
 ### Carvanro
@@ -68,3 +61,11 @@ Web development agency
 
 - Worked as a freelance junior web developer helping small businesses building their websites.
 - Built a custom CMS for clients to update their content in PHP.
+
+
+## Contact info
+Phone: +46(0) 709 31 39 55
+
+Email: vikfroberg@gmail.com
+
+You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https://twitter.com) and [Dribbble](https://dribbble.com/vikfroberg).
