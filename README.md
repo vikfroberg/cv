@@ -20,8 +20,7 @@ commuting from and to work in Iran.
 ### Consultant
 *June 2015 - February 2016*
 
-Worked as a consultant helping clients including Volvo CE,
-IHM Business School, Lindholmen and Ebeco.
+Worked as a consultant helping clients including Volvo CE and IHM.
 
 - Lead the development of a commenting system similar to Facebook's written
 in React for Volvo CE's innovation platform.
