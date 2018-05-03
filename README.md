@@ -21,7 +21,7 @@ commuting from and to work in Iran.
 ### Consultant
 *June 2015 - February 2016*
 
-Worked as a consultant helping clients including Volvo CE, IHM, Kodamera and Xelera.
+Worked as a consultant helping clients including Volvo CE, IHM, Bio Venture Hub, Kodamera and Xelera.
 
 - Lead the development of a commenting system written in React for Volvo CE's innovation platform.
 - Developed an in-house solution for creating modular one pagers for Kodamera.
