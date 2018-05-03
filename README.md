@@ -65,6 +65,6 @@ Web development agency
 ## Contact info
 Phone: +46(0) 709 31 39 55
 
-Email: vikfroberg@gmail.com
+Email: vikfroberg at gmail dot com
 
 You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https://twitter.com) and [Dribbble](https://dribbble.com/vikfroberg).
