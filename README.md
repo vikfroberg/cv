@@ -52,7 +52,7 @@ Web development agency
 - Lead the development of many client projects including Volco CE, Ebeco, Lindholmen, IHM and more.
 - We used technologies like Drupal, React, Solr, Symfony, Varnish, SASS amongst many others.
 - Did open source work for the Drupal community
-- Architectured the personalized newsfeed using event sourcing for Volvo CE's inovation platform.
+- Architectured personalized newsfeeds using event sourcing for Volvo CE's inovation platform.
 - Kodamera has a strong beleif in agile development and we used it exclusivly in every project.
 
 ### Freelance
