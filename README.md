@@ -50,7 +50,7 @@ Built a todo-list meets calendar application for iPhone called Daily.
 
 Web development agency
 
-- Lead the development of many client projects including Volco CE, Ebeco, Lindholmen, IHM and more.
+- Lead the development of many client projects including Volco CE, Ebeco, Lindholmen and more.
 - Used technologies like Drupal, React, Solr, Symfony, Varnish, SASS amongst many others.
 - Contributed open source work for the Drupal community.
 - Architectured personalized newsfeeds using event sourcing for Volvo CE's inovation platform.
@@ -59,7 +59,8 @@ Web development agency
 ### Freelance
 *November 2008 - December 2009*
 
-- Worked as a freelance junior web developer helping small businesses building their websites.
+Worked as a freelance junior web developer helping small businesses building their websites.
+
 - Built a custom CMS in PHP for clients to update their content.
 
 
