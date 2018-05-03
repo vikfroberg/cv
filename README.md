@@ -16,7 +16,7 @@ You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https
 ## Experience
 
 ### Carvanro
-February 2016 - present
+*February 2016 - present*
 
 Venture funded startup building a ride sharing platform. Targeted for people
 commuting from and to work in Iran.
@@ -27,7 +27,7 @@ We used [Rx](https://github.com/reactivex/rxjs) extensivly for handling complex 
 - Lead the development of our web application written in React. I was responsible for the development of our styleguide and reusable components library.
 
 ### Consultant
-June 2015 - February 2016
+*June 2015 - February 2016*
 
 Worked as a consultant helping different clients including Volvo CE,
 IHM Business School, Lindholmen and Ebeco.
@@ -39,7 +39,7 @@ in React for Volvo CE's innovation platform.
 team and worked closely with the ux team in order to manage feature creep.
 
 ### App Developer
-September 2014 - May 2015
+*September 2014 - May 2015*
 
 Built a todo-list meets calendar application for iPhone called Daily.
 
@@ -50,14 +50,14 @@ which gave a deep understanding of the core concepts of functional programming.
 product design decicions based on that data.
 
 ### Travel the world 2014-2015
-November 2013 - August 2014
+*November 2013 - August 2014*
 
 - Experiene different cultures
 - Meeting people, making friends
 - Did some open source work for [Assembly Made](https://assemblymade.com)
 
 ### Kodamera
-December 2009 - November 2013
+*December 2009 - November 2013*
 
 Web development agency
 
@@ -69,7 +69,7 @@ and queueing jobs we were able to generate a personalized feed for each user
 - Kodamera has a strong beleif in agile development and we used it exclusivly in every project
 
 ### Freelance
-November 2008 - December 2009
+*November 2008 - December 2009*
 
 - Worked as a freelancing junior web developer helping small businesses building their website.
 - Built a custom CMS for clients to update their content in PHP
