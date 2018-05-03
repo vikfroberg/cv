@@ -34,7 +34,7 @@ team and worked closely with the ux team in order to manage feature creep.
 Built a todo-list meets calendar application for iPhone called Daily.
 
 - Wrote in house libraries for making Objective-C more functional which gave me a deep understanding of the core concepts of functional programming.
-- Used Rx for declarative rendering similar to the patterns used in React.
+- Used [Rx](https://github.com/reactivex/rxjs) for declarative rendering similar to the patterns used in React.
 - Worked with tools like Intercom and Mixpanel to collect analytics and make product design decicions based on that data.
 
 ### Travel the world
