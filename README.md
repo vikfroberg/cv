@@ -39,9 +39,9 @@ Built a todo-list meets calendar application for iPhone called Daily.
 ### Travel the world
 *November 2013 - August 2014*
 
-- Experiene different cultures
-- Meeting people and making friends
-- Open source work for [Assembly Made](https://assemblymade.com)
+- Experiene different cultures.
+- Meeting people and making friends.
+- Open source work for [Assembly Made](https://assemblymade.com).
 
 ### Kodamera
 *December 2009 - November 2013*
@@ -49,8 +49,8 @@ Built a todo-list meets calendar application for iPhone called Daily.
 Web development agency
 
 - Lead the development of many client projects including Volco CE, Ebeco, Lindholmen, IHM and more.
-- We used technologies like Drupal, React, Solr, Symfony, Varnish, SASS amongst many others.
-- Did open source work for the Drupal community
+- Used technologies like Drupal, React, Solr, Symfony, Varnish, SASS amongst many others.
+- Did open source work for the Drupal community.
 - Architectured personalized newsfeeds using event sourcing for Volvo CE's inovation platform.
 - Kodamera has a strong beleif in agile development and we used it exclusivly in every project.
 
