@@ -37,7 +37,7 @@ Built a todo-list meets calendar application for iPhone called Daily.
 - Used Rx for declarative rendering similar to the patterns used in React.
 - Worked with tools like Intercom and Mixpanel to collect analytics and make product design decicions based on that data.
 
-### Travel the world 2014-2015
+### Travel the world
 *November 2013 - August 2014*
 
 - Experiene different cultures
