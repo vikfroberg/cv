@@ -18,7 +18,7 @@ You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https
 ### Carvanro
 *February 2016 - present*
 
-Venture funded startup building a ride sharing platform. Targeted for people
+Startup focused on building a ride sharing platform. Targeted for people
 commuting from and to work in Iran.
 
 - Lead the development of our Android application written in React Native. Worked on the offline supprt, push notifications and general architecture. We used [Rx](https://github.com/reactivex/rxjs) extensivly for handling complex asynchronous data fetching.
@@ -66,5 +66,5 @@ Web development agency
 ### Freelance
 *November 2008 - December 2009*
 
-- Worked as a freelancing junior web developer helping small businesses building their website.
+- Worked as a freelance junior web developer helping small businesses building their websites.
 - Built a custom CMS for clients to update their content in PHP.
