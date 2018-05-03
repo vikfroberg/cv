@@ -16,6 +16,7 @@ commuting from and to work in Iran.
 
 - Lead the development of our Android application written in React Native. Worked on the offline support, push notifications and general architecture. We used [Rx](https://github.com/reactivex/rxjs) extensivly for handling complex asynchronous data fetching.
 - Lead the development of our web application written in React. I was responsible for the development of our styleguide and reusable components library.
+- Architectured recurring rides by using similar patterns used in calendar software.
 
 ### Consultant
 *June 2015 - February 2016*
