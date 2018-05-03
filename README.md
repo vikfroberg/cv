@@ -3,11 +3,12 @@
 I have 10 years of professional experience building applications for web
 and mobile. I'm a functional programming advocate with a huge crush on [Elm](http://elm-lang.org).
 
-Recently made an [assignment](https://github.com/vikfroberg/etraveli) for Etraveli where you can see some of my
+I recently made an [assignment](https://github.com/vikfroberg/etraveli) for Etraveli where you can see some of my
 coding style.
 
 ## Contact info
 Phone: +46(0) 709 31 39 55
+
 Email: vikfroberg@gmail.com
 
 You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https://twitter.com) and [Dribbble](https://dribbble.com/vikfroberg).
