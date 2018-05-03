@@ -21,9 +21,7 @@ You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https
 Venture funded startup building a ride sharing platform. Targeted for people
 commuting from and to work in Iran.
 
-- Lead the development of our Android application written in React Native.
-Worked on the offline supprt, push notifications and general architecture.
-We used [Rx](https://github.com/reactivex/rxjs) extensivly for handling complex asynchronous data fetching.
+- Lead the development of our Android application written in React Native. Worked on the offline supprt, push notifications and general architecture. We used [Rx](https://github.com/reactivex/rxjs) extensivly for handling complex asynchronous data fetching.
 - Lead the development of our web application written in React. I was responsible for the development of our styleguide and reusable components library.
 
 ### Consultant
@@ -43,11 +41,9 @@ team and worked closely with the ux team in order to manage feature creep.
 
 Built a todo-list meets calendar application for iPhone called Daily.
 
-- Wrote in house libraries for making Objective-C more functional
-which gave a deep understanding of the core concepts of functional programming.
+- Wrote in house libraries for making Objective-C more functional which gave a deep understanding of the core concepts of functional programming.
 - Used Rx for declarative rendering similar to the patterns used in React.
-- Worked with tools like Intercom and Mixpanel to collect analytics and make
-product design decicions based on that data.
+- Worked with tools like Intercom and Mixpanel to collect analytics and make product design decicions based on that data.
 
 ### Travel the world 2014-2015
 *November 2013 - August 2014*
@@ -64,12 +60,11 @@ Web development agency
 - Lead the development of many client projects including Volco CE, Ebeco, Lindholmen, IHM and more.
 - We used technologies like Drupal, React, Solr, Symphony, Varnish, SASS many amongst others.
 - Did open source work for the Drupal community
-- Came up with the architecture for Volvo CE's newsfeed. By using event sourcing
-and queueing jobs we were able to generate a personalized feed for each user
-- Kodamera has a strong beleif in agile development and we used it exclusivly in every project
+- Came up with the architecture for Volvo CE's newsfeed. By using event sourcing and queueing jobs we were able to generate a personalized feed for each user.
+- Kodamera has a strong beleif in agile development and we used it exclusivly in every project.
 
 ### Freelance
 *November 2008 - December 2009*
 
 - Worked as a freelancing junior web developer helping small businesses building their website.
-- Built a custom CMS for clients to update their content in PHP
+- Built a custom CMS for clients to update their content in PHP.
