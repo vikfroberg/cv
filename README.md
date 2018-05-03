@@ -24,7 +24,7 @@ commuting from and to work in Iran.
 Worked as a consultant helping clients including Volvo CE and IHM.
 
 - Lead the development of a commenting system written in React for Volvo CE's innovation platform.
-- Developed an inhouse solution for creating modular one pagers for Kodamera.
+- Developed an in-house solution for creating modular one pagers for Kodamera.
 - Helped Xelera finish a doomed client project on time, lead the development
 team and worked closely with the ux team in order to manage feature creep.
 
