@@ -40,7 +40,7 @@ Built a todo-list meets calendar application for iPhone called Daily.
 ### Travel the world
 *November 2013 - August 2014*
 
-- Got to experience loads of different cultures.
+- Got to experience many different cultures.
 - Developed my skills of meeting people and making friends.
 - Did open source work for [Assembly Made](https://assemblymade.com).
 
