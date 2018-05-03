@@ -9,7 +9,7 @@ coding style.
 ## Experience
 
 ### Carvanro
-*February 2016 - present*
+*February 2016 - April 2018*
 
 Startup focused on building a ride sharing platform targeted for people
 commuting from and to work in Iran.
