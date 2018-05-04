@@ -65,8 +65,6 @@ Worked as a freelance junior web developer helping small businesses building the
 
 
 ## Contact info
-Phone: +46(0) 709 31 39 55
-
 Email: vikfroberg at gmail dot com
 
 You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https://twitter.com) and [Dribbble](https://dribbble.com/vikfroberg).
