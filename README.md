@@ -51,7 +51,7 @@ Built a todo-list meets calendar application for iPhone called Daily.
 Web development agency
 
 - Lead the development of many client projects including Volco CE, Ebeco, Lindholmen and more.
-- Used technologies like Drupal, React, Solr, Symfony, Varnish, SASS amongst many others.
+- Used technologies like Drupal, Solr, Symfony, Varnish, SASS amongst many others.
 - Contributed open source work for the Drupal community.
 - Architectured personalized newsfeeds using event sourcing for Volvo CE's inovation platform.
 - Kodamera has a strong belief in agile development, we used it exclusively in every project.
