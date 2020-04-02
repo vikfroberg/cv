@@ -27,7 +27,7 @@ commuting from and to work in Iran.
 - Lead the development of our web application written in React. I was responsible for the development of our styleguide and reusable components library.
 
 ### Kodamera AB
-*November 2015 – February 2016
+*November 2015 – February 2016*
 
 - Worked as a consultant helping clients including Volvo CE, IHM, BioVentureHub.
 - Lead the development of a commenting system written in React for Volvo CE's innovation platform.
