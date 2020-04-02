@@ -1,7 +1,7 @@
 ![me](13087668_10153996017085170_5196513416301189826_n.jpg)
 
 # Hi, I'm Viktor
-27 years old passionated software engineer living in Gothenburg, Sweden.
+29 years old passionated software engineer living in Gothenburg, Sweden.
 I have 12 years of professional experience building applications for web
 and mobile. I'm a functional programming advocate with a huge crush on [Elm](http://elm-lang.org).
 
