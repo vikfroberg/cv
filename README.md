@@ -80,4 +80,4 @@ Worked as a freelance junior web developer helping small businesses building the
 ## Contact info
 Email: vikfroberg at gmail dot com
 
-You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https://twitter.com) and [Dribbble](https://dribbble.com/vikfroberg).
+You can also find me on [GitHub](https://github.com/vikfroberg), [Twitter](https://twitter.com/vikfroberg) and [Dribbble](https://dribbble.com/vikfroberg).
