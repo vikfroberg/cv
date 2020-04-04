@@ -10,12 +10,12 @@ and mobile. I'm a functional programming advocate with a huge crush on [Elm](htt
 ### Webbhuset AB
 *September 2018 – March 2020*
 
-Working with a small team developing a project management system for a client. Built with Elm and Phoenix (Elixir, Erlang)
+Working with a small team developing a new project management system for a client. Built with Elm and Phoenix (Elixir, Erlang)
 
 ### Publicis.Sapient
 *May 2018 – July 2018*
 
-Worked on a flight marketing/booking service for a known airline company. Used Next.js as our framework and tried to develop the service as agile as possible by building the simplest possible solution and getting early feedback. I worked close with the design team to keep the scope down and find the most cost effective implementation and design.
+Worked on a flight marketing/booking service for a Finnair. Used Next.js as our framework and tried to develop the service as agile as possible by building the simplest possible solution and getting early feedback. I worked close with the design team to keep the scope down and find the most cost effective implementation and design.
 
 ### Carvanro
 *February 2016 - April 2018*
@@ -40,7 +40,7 @@ commuting from and to work in Iran.
 
 ### Xelera Communication AB
 *June 2015 – August 2015*
-Helped Xelera finish a doomed client project on time, lead the development team and worked closely with the ux team in order to manage feature creep.
+Stand-in to help finish a project that was out of hand. Lead the development team and worked closely with the ux team in order to avoid feature creep.
 
 ### App Developer
 *September 2014 - May 2015*
