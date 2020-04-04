@@ -2,7 +2,7 @@
 
 # Hi, I'm Viktor
 29 years old passionated software engineer living in Gothenburg, Sweden.
-I have 12 years of professional experience building applications for web
+I have 11+ years of professional experience building applications for web
 and mobile. I'm a functional programming advocate with a huge crush on [Elm](http://elm-lang.org).
 
 ## Experience
