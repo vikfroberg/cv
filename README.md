@@ -7,17 +7,17 @@ and mobile. I'm a functional programming advocate with a huge crush on [Elm](htt
 
 ## Experience
 
-### Webbhuset AB
+### Webbhuset AB (Elm, Elixir)
 *September 2018 – March 2020*
 
 Working with a small team developing a new project management system for a client. Built with Elm and Phoenix (Elixir, Erlang)
 
-### Publicis.Sapient
+### Publicis.Sapient (React, Node)
 *May 2018 – July 2018*
 
 Worked on a flight marketing/booking service for a Finnair. Used Next.js as our framework and tried to develop the service as agile as possible by building the simplest possible solution and getting early feedback. I worked close with the design team to keep the scope down and find the most cost effective implementation and design.
 
-### Carvanro
+### Carvanro (React, React Native, Node, Python)
 *February 2016 - April 2018*
 
 Startup focused on building a ride sharing platform targeted for people
@@ -26,23 +26,23 @@ commuting from and to work in Iran.
 - Lead the development of our Android application written in React Native. Worked on the offline support, push notifications and general architecture. We used [Rx](https://github.com/reactivex/rxjs) extensively for handling complex asynchronous data fetching.
 - Lead the development of our web application written in React. I was responsible for the development of our styleguide and reusable components library.
 
-### Kodamera AB
+### Kodamera AB (React, Drupal, PHP)
 *November 2015 – February 2016*
 
 - Worked as a consultant helping clients including Volvo CE, IHM, BioVentureHub.
 - Lead the development of a commenting system written in React for Volvo CE's innovation platform.
 - Developed an in-house solution for creating modular one pagers for Kodamera.
 
-### TransAtlantic AB
+### TransAtlantic AB (Drupal, PHP)
 *September 2015 – November 2015*
 
-- Helped develop a few new features for their website, Drupal.
+- Helped develop a few new features for their website.
 
-### Xelera Communication AB
+### Xelera Communication AB (Drupal, PHP)
 *June 2015 – August 2015*
 Stand-in to help finish a project that was out of hand. Lead the development team and worked closely with the ux team in order to avoid feature creep.
 
-### App Developer
+### App Developer (Objective-C)
 *September 2014 - May 2015*
 
 Built a todo-list meets calendar application for iPhone called Daily.
@@ -58,7 +58,7 @@ Built a todo-list meets calendar application for iPhone called Daily.
 - Developed my skills of meeting people and making friends.
 - Did open source work for [Assembly Made](https://assemblymade.com).
 
-### Kodamera
+### Kodamera (Drupal, Sympfony, PHP)
 *December 2009 - November 2013*
 
 Web development agency
@@ -69,7 +69,7 @@ Web development agency
 - Architectured personalized newsfeeds using event sourcing for Volvo CE's inovation platform.
 - Kodamera has a strong belief in agile development, we used it exclusively in every project.
 
-### Freelance
+### Freelance (PHP)
 *November 2008 - December 2009*
 
 Worked as a freelance junior web developer helping small businesses building their websites.
