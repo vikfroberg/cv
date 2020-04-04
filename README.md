@@ -15,7 +15,7 @@ Working with a small team developing a new project management system for a clien
 ### Publicis.Sapient (React, Node)
 *May 2018 – July 2018*
 
-Worked on a flight marketing/booking service for a Finnair. Used Next.js as our framework and tried to develop the service as agile as possible by building the simplest possible solution and getting early feedback. I worked close with the design team to keep the scope down and find the most cost effective implementation and design.
+Worked on a flight marketing/booking service for Finnair. Used Next.js as our framework and tried to develop the service as agile as possible by building the simplest possible solution and getting early feedback. I worked close with the design team to keep the scope down and find the most cost effective implementation and design.
 
 ### Carvanro (React, React Native, Node, Python)
 *February 2016 - April 2018*
